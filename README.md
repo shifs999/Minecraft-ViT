@@ -1,7 +1,7 @@
 
 # ViTMinecraft
-* This model is trained on Minecraft images.
-* Performs unsupervised masking and AutoEncoding/Decoding
+* This project is an implementation of Vision Transformer (ViT) model trained on Minecraft gameplay images. It uses unsupervised learning techniques, including masked autoencoding, to learn visual representations without labeled data.
+* The model encodes and reconstructs masked image patches, capturing the structure and style of Minecraft scenes.
 
 
 
