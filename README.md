@@ -9,7 +9,7 @@
 
 
 
-## The file below will generate the output:
+## In order to generate the output run:
 
 ```bash
   python ModelTraining.py
