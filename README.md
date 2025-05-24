@@ -1,4 +1,4 @@
-# ViT MAE
+# ViT-MAE
 
 ---
 
